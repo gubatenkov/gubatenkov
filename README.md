@@ -3,9 +3,9 @@
 </p>
 <p align="center">
 <a href="https://sokolenkov.github.io/"><img src="https://img.shields.io/badge/-PORTFOLIO-%23ff69b4&?style=for-the-badge&?color=ff69b4 alt="Portfolio" /></a>&nbsp;
-<a href="https://codepen.io/YuriDevAT"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>&nbsp;
-<a href="https://twitter.com/YuriDevAT"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
-<a href="https://t.me/soko1enkov"><img src="tbadge.svg" alt="Telegram" /></a>&nbsp;
+<a href="https://codepen.io/YuriDevAT"><img src="gmail.svg" alt="CodePen" width="100" /></a>&nbsp;
+<a href="https://twitter.com/YuriDevAT"><img src="steam.svg" alt="Twitter" width="100" /></a>&nbsp;
+<a href="https://t.me/soko1enkov"><img src="tbadge.svg" alt="Telegram" width="100" /></a>&nbsp;
 </p>
 <br />
 
