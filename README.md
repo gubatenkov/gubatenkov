@@ -9,7 +9,7 @@
 </p>
 <br />
 
-<p>Enthusiastic Frontend Developer. a11y minded. Scrum & Agile inspired.</p>
+<p align="center">The stubborn Frontend developer</p>
 <br />
 
 <h2 align="center">My favorite projects 💻</h2>
@@ -38,7 +38,7 @@
 
 <h2 align="center">About me 😇</h2>
 <p align="center">
-Timezone: Europe/Vienna (CEST)
+Timezone: Kiev/Europe GMT+2
 </p>
 <br />
 <p>In my latest project, I created an <a href="https://github.com/YuriDevAT/sos-animals">SOS Animal App</a> which will help abandoned animals get help from Animal welfare organizations in Romania when people reporting them via this app. I created this project to participate in my first hackathon - Clerk x Hashnode Hackathon July 2021. 🏆 This project was one of the Runner Up Winners. 🥳</p>
@@ -65,11 +65,11 @@ Timezone: Europe/Vienna (CEST)
 <img alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img alt="GitHub" width="40px" src="https://github.com/YuriDevAT/YuriDevAT/blob/main/github_.png" />
 <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>  
-<!--<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>-->
+<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
    </p>
 <br />
 <p align="center">
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I enjoy communicating with smart people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b></em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I enjoy communicating with people who are not afraid to keep up with the time.</b> That's why when you say<b>hi, I'll be glad to know more about you</b></em>
 </p>
 <br />
 
