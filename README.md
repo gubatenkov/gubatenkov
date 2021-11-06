@@ -3,9 +3,9 @@
 </p>
 <p align="center">
 <a href="https://sokolenkov.github.io/"><img src="https://img.shields.io/badge/-PORTFOLIO-%23ff69b4&?style=for-the-badge&?color=ff69b4 alt="Portfolio" /></a>&nbsp;
-<a href="mailto:s9379992g@gmail.com"><img src="gmail.svg" alt="CodePen" style="width: 100px" /></a>&nbsp;
-<a href="https://steamcommunity.com/id/AkkMe/"><img src="steam.svg" alt="Steam" style="width: 100px" /></a>&nbsp;
-<a href="https://t.me/soko1enkov"><img src="tbadge.svg" alt="Telegram" style="width: 100px" /></a>&nbsp;
+<a href="mailto:s9379992g@gmail.com"><img src="gmail.svg" alt="CodePen" style="width: 100px; height: 28px;" /></a>&nbsp;
+<a href="https://steamcommunity.com/id/AkkMe/"><img src="steam.svg" alt="Steam" style="width: 100px; height: 28px;" /></a>&nbsp;
+<a href="https://t.me/soko1enkov"><img src="tbadge.svg" alt="Telegram" style="width: 100px; height: 28px;" /></a>&nbsp;
 </p>
 <br />
 
