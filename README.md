@@ -12,7 +12,7 @@
 <p align="center">The Frontend Developer</p>
 <br />
 
-<h2 align="center">My favorite projects <img src="react.svg" alt="Telegram" style="width: 100px; height: 28px;" /></h2>
+<h2 align="center">My favorite projects 💻</h2>
 <br />
 
 <p align="center">
