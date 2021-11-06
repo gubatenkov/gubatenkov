@@ -9,7 +9,7 @@
 </p>
 <br />
 
-<p align="center">The stubborn Frontend developer</p>
+<p align="center">The Frontend developer</p>
 <br />
 
 <h2 align="center">My favorite projects 💻</h2>
