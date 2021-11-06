@@ -9,7 +9,7 @@
 </p>
 <br />
 
-<p>Enthusiastic Software Engineer since 2020 using ReactJS, Angular and Java Spring Boot. a11y minded. Scrum & Agile inspired.</p>
+<p>Enthusiastic Frontend Developer. a11y minded. Scrum & Agile inspired.</p>
 <br />
 
 <h2 align="center">My favorite projects 💻</h2>
@@ -69,7 +69,7 @@ Timezone: Europe/Vienna (CEST)
    </p>
 <br />
 <p align="center">
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I enjoy communicating with smart people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b></em>
 </p>
 <br />
 
@@ -77,18 +77,6 @@ Timezone: Europe/Vienna (CEST)
 
 <br />
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YuriDevAT&theme=radical&show_icons=true" width="450"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriDevAT&layout=compact&theme=radical" width="400" />
+<img src="https://github-readme-stats.vercel.app/api?username=sokolenkov&theme=radical&show_icons=true" width="450"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sokolenkov&layout=compact&theme=radical" width="400" />
 </p>
-
----
-
-📕 **Latest Blog Posts**
-
-<!-- BLOG-POST-LIST:START -->
-- [Nikki - Online Journal App](https://yuridevat.hashnode.dev/nikki-online-journal-app)
-- [SOS Animals App. A project for the Clerk x Hashnode Hackathon](https://yuridevat.hashnode.dev/sos-animals-hackathon-project)
-- [2 ways to overcome deployment problems with React on Netlify](https://dev.to/yuridevat/2-ways-to-overcome-deployment-problems-with-react-on-netlify-4l5p)
-- [How to add styling to an active link in NextJS ](https://dev.to/yuridevat/how-to-add-styling-to-an-active-link-in-nextjs-593e)
-- [Why to choose NextJS for future projects](https://dev.to/yuridevat/why-to-choose-nextjs-for-future-projects-4k8o)
-<!-- BLOG-POST-LIST:END -->
