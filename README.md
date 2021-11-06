@@ -69,7 +69,7 @@ Timezone: Kiev/Europe GMT+2
    </p>
 <br />
 <p align="center">
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I enjoy communicating with people who are not afraid to keep up with the time.</b> That's why when you say<b>hi, I'll be glad to know more about you</b></em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I enjoy communicating with people who are not afraid to keep up with the time.</b> That's why when you say<b> hi, I'll be glad to know more about you</b></em>
 </p>
 <br />
 
