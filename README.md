@@ -1,5 +1,5 @@
 <p>
-  <h1 align="center"><b>Valar morghulis, I'm V <img src="https://docs.google.com/uc?export=download&id=166Ecq6uBl61U14OUlkHOHIBv2ArKoumJ" alt="" width="30"></h1>
+  <h1 align="center"><b>Yo, I'm V <img src="https://c.tenor.com/lb9hGWB5XXQAAAAC/happy-mochi.gif" alt="" width="30"></h1>
 </p>
 <p align="center">
 <a href="https://sokolenkov.github.io/"><img src="https://img.shields.io/badge/-PORTFOLIO-%23ff69b4&?style=for-the-badge&?color=ff69b4 alt="Portfolio" /></a>&nbsp;
@@ -41,14 +41,14 @@
 Timezone: Kiev/Europe GMT+2
 </p>
 <br />
-<p>In my latest project, I created an <a href="https://github.com/YuriDevAT/sos-animals">SOS Animal App</a> which will help abandoned animals get help from Animal welfare organizations in Romania when people reporting them via this app. I created this project to participate in my first hackathon - Clerk x Hashnode Hackathon July 2021. 🏆 This project was one of the Runner Up Winners. 🥳</p>
+<p>My latest project is a contact manager created with React. It is an app for creating and storing contacts in the web</a> which will help people with bad memory to create, change and save contacts in real time. I created this project to participate my knowledge of React library 🥳</p>
 
-:muscle: I am currently helping others to get into tech too by creating content using Twitter.<br />
-<!--:eyes: I’m currently learning ... TypeScript <br />
-:raising_hand: I’m looking to collaborate with ... someone who is interested in art / music or helping people /environment <br />
-:dizzy_face: I’m looking for help with ... TypeScript<br />-->
-💬 Ask me about anything related to... my content. I am happy to help.<br />
-:ghost: Fun fact: ... I studied Musicology and Japanese studies, but I am now a selftaught developer working in Vienna. <br />
+:muscle: I am currently write a blog about cryptocurrency <br />
+<!--:eyes: I’m currently learning TypeScript <br />
+:raising_hand: I’m looking to collaborate with someone who is interested in the same things as and I <br />
+:dizzy_face: I’m looking for new friends <br />-->
+💬 Ask me about anything related to my content. I am happy to help.<br />
+:ghost: Random fact: ... I studied at Odessa National Academy of Food Technologies <br />
 
 <br />
 <br />
