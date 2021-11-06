@@ -2,10 +2,10 @@
   <h1 align="center"><b>Valar morghulis, I'm V <img src="https://docs.google.com/uc?export=download&id=166Ecq6uBl61U14OUlkHOHIBv2ArKoumJ" alt="" width="30"></h1>
 </p>
 <p align="center">
-<a href="https://julia-undeutsch.netlify.app/"><img src="https://img.shields.io/badge/-PORTFOLIO-%23ff69b4&?style=for-the-badge&?color=ff69b4 alt="Portfolio" /></a>&nbsp;
+<a href="https://sokolenkov.github.io/"><img src="https://img.shields.io/badge/-PORTFOLIO-%23ff69b4&?style=for-the-badge&?color=ff69b4 alt="Portfolio" /></a>&nbsp;
 <a href="https://codepen.io/YuriDevAT"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>&nbsp;
 <a href="https://twitter.com/YuriDevAT"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
-<a href="https://hashnode.com/@YuriDevAT"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white alt="HashNode" /></a>&nbsp;
+<a href="https://t.me/soko1enkov"><img src="https://badges.aleen42.com/src/telegram.svg" alt="Telegram" /></a>&nbsp;
 </p>
 <br />
 
