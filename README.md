@@ -44,9 +44,9 @@ Timezone: Kiev/Europe GMT+2
 <p>My latest project is a contact manager created with React. It is an app for creating and storing contacts in the web</a> which will help people with bad memory to create, change and save contacts in real time. I created this project to participate my knowledge of React library 🥳</p>
 
 :muscle: I am currently write a blog about cryptocurrency <br />
-<!--:eyes: I’m currently learning TypeScript <br />
+:eyes: I’m currently learning TypeScript <br />
 :raising_hand: I’m looking to collaborate with someone who is interested in the same things as and I <br />
-:dizzy_face: I’m looking for new friends <br />-->
+:dizzy_face: I’m looking for new meetings <br />
 💬 Ask me about anything related to my content. I am happy to help.<br />
 :ghost: Random fact: ... I studied at Odessa National Academy of Food Technologies <br />
 
