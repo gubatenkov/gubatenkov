@@ -41,7 +41,7 @@
 Timezone: Kiev/Europe GMT+2
 </p>
 <br />
-<p>My latest project is a contact manager created with React. It is an app for creating and storing contacts in the web</a> which will help people with bad memory to create, change and save contacts in real time. I created this project to participate my knowledge of React library 🥳</p>
+<p>My latest project is a brand new portfolio with 3D elements. I created this project to showcase my new skills 🥳</p>
 
 :muscle: I am currently thinking to start to write a blog <br />
 :eyes: I’m currently learning Blender, TypeScript and Three.js <br />
