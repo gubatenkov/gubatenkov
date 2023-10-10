@@ -1,5 +1,5 @@
 <p>
-  <h1 align="center"><b>Yo, I'm V <img src="https://c.tenor.com/lb9hGWB5XXQAAAAC/happy-mochi.gif" alt="" width="30"></h1>
+  <h1 align="center"><b>Yo, I'm Slava <img src="https://c.tenor.com/lb9hGWB5XXQAAAAC/happy-mochi.gif" alt="" width="30"></h1>
 </p>
 <p align="center">
 <a href="https://sokolenkov.github.io/"><img src="https://img.shields.io/badge/-PORTFOLIO-%23ff69b4&?style=for-the-badge&?color=ff69b4 alt="Portfolio" /></a>&nbsp;
