@@ -2,10 +2,10 @@
   <h1 align="center"><b>Yo, I'm Slava <img src="https://c.tenor.com/lb9hGWB5XXQAAAAC/happy-mochi.gif" alt="" width="30"></h1>
 </p>
 <p align="center">
-<a href="https://sokolenkov.github.io/"><img src="https://img.shields.io/badge/-PORTFOLIO-%23ff69b4&?style=for-the-badge&?color=ff69b4 alt="Portfolio" /></a>&nbsp;
+<a href="https://gubatenkov.github.io/"><img src="https://img.shields.io/badge/-PORTFOLIO-%23ff69b4&?style=for-the-badge&?color=ff69b4 alt="Portfolio" /></a>&nbsp;
 <a href="mailto:s9379992g@gmail.com"><img src="gmail.svg" alt="CodePen" style="width: 100px; height: 28px;" /></a>&nbsp;
 <a href="https://steamcommunity.com/id/AkkMe/"><img src="steam.svg" alt="Steam" style="width: 100px; height: 28px;" /></a>&nbsp;
-<a href="https://t.me/soko1enkov"><img src="tbadge.svg" alt="Telegram" style="width: 100px; height: 28px;" /></a>&nbsp;
+<a href="https://t.me/gubatenkov"><img src="tbadge.svg" alt="Telegram" style="width: 100px; height: 28px;" /></a>&nbsp;
 </p>
 <br />
 
@@ -77,6 +77,6 @@ Timezone: Kiev/Europe GMT+2
 
 <br />
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sokolenkov&theme=radical&show_icons=true" width="450"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sokolenkov&layout=compact&theme=radical" width="400" />
+<img src="https://github-readme-stats.vercel.app/api?username=gubatenkov&theme=radical&show_icons=true" width="450"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gubatenkov&layout=compact&theme=radical" width="400" />
 </p>
