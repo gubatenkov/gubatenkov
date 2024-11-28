@@ -48,7 +48,6 @@ Timezone: Kiev/Europe GMT+2
 :raising_hand: I’m looking to collaborate with someone who is interested in the same things as and I <br />
 :dizzy_face: I’m looking for new meetings ?<br />
 💬 Ask me about anything related to my content. I am happy to help.<br />
-:ghost: Random fact: I studied at Odessa National Academy of Food Technologies <br />
 
 <br />
 <br />
